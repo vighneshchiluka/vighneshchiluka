@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Vighnesh Chiluka 👋
 
-<!--
-**vighneshchiluka/vighneshchiluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Web Developer at Ferrobend with 3+ years of experience building responsive web applications and business solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in Mumbai, Maharashtra, India
+- 💻 Skilled in HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and Node.js
+- 🎯 Focused on responsive web development, performance optimization, and user experience
+- 📈 Interested in SEO and modern web technologies
+- 🚀 Continuously learning and improving my development skills
+
+## 🛠️ Current Work
+
+- 🎫 Ticket Raising Systems
+- ✅ Task Management Applications
+- 🤖 Real-Time Chatbot Integration
+- 📊 Dashboard Interfaces
+- ⚡ Website Performance Optimization
+
+## 💻 Tech Stack
+
+HTML5 • CSS3 • JavaScript • Bootstrap • PHP • MySQL • Node.js • Git • GitHub
+
+## 🌐 Connect With Me
+
+🔗 Portfolio: https://vighneshchiluka.netlify.app
+
+💼 LinkedIn: https://www.linkedin.com/in/vighneshchiluka
+
+📌 Pinterest: https://in.pinterest.com/vighneshchiluka/
